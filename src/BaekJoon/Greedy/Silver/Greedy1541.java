@@ -1,4 +1,4 @@
-package BaekJoon.Greedy;
+package BaekJoon.Greedy.Silver;
 
 import java.util.Scanner;
 
